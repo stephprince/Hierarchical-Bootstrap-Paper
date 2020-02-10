@@ -1,8 +1,10 @@
-# Hierarchical-Bootstrap-Paper
-This repository contains the code used to perform simulations and obtain plots used in the Hierarchical Boostrap paper in addition to some of the analysis done on the birdsong data.
+# hierarchical-bootstrap-practice
+This repository uses the code from the [Sober Lab Hierarchical Bootstrap Paper](https://github.com/soberlab/Hierarchical-Bootstrap-Paper) to test applying this analysis to Singer Lab 5XFAD electrophysiology data.
 
-The Jupyter Notebook titled "Bootstrap Paper Simulation Figure Codes" contains all the code that produced the simulations and figures presented in the "Simulations" section of the Results. In addition, the MATLAB file contains the code that was used to do the bootstrap analysis on the birdsong data.
+NOTE: this is in progress, and I need to verify that I'm using this approach correctly.
 
-Note however that while the simulation results can be reproduced entirely from the files provided, the example results can not be since we are not providing the raw data and all of the analysis scripts. These can be made available upon reasonable request.
-
-Additionally, the data for the example involving optogenetic control of behavior in flies came from a collaborator and so that data has not been made available and may be available upon reasonable request.
+The main updates I've made can be found below:
+  * uploading the long data format table of ripple abundance in 5XFAD and WT mice
+  * changing the bootstrapping functions to be used with data stored in the long format 
+  * adding a recursive function to perform the bootstrapping across any number of levels of hierarchical data
+  * removing figures and simulation code that was in the paper but not necessary for applying the analysis to my data
