@@ -1,6 +1,8 @@
 # hierarchical-bootstrap-practice
 
-https://mybinder.org/v2/gh/stephprince/hierarchical-bootstrap-practice.git/8b6a743?filepath=hierarchical-bootstrap-ripple-abundance-test.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephprince/hierarchical-bootstrap-practice.git/e83938c?filepath=hierarchical-bootstrap-ripple-abundance-test.ipynb)
+
+Press the Binder button above to launch the jupyter notebook!
 
 This repository uses the code from the [Sober Lab Hierarchical Bootstrap Paper](https://github.com/soberlab/Hierarchical-Bootstrap-Paper) to test applying this analysis to Singer Lab 5XFAD electrophysiology data.
 
