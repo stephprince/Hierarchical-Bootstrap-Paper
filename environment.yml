@@ -79,17 +79,17 @@ dependencies:
   - zeromq=4.3.1
   - zipp=2.2.0
   - zlib=1.2.11
-  - pip:
-      - pywinpty=0.5.7
-      - vs2015_runtime=14.16.27012
-      - m2w64-gmp=6.1.0
-      - wincertstore=0.2
-      - msys2-conda-epoch=20160418
-      - m2w64-gcc-libgfortran=5.3.0
-      - m2w64-gcc-libs=5.3.0
-      - m2w64-gcc-libs-core=5.3.0
-      - m2w64-libwinpthread-git=5.0.0.4634.697f757
-      - winpty=0.4.3
-      - icc_rt=2019.0.0
-      - pywin32=227
-      - vc=14.1
+  # - pip:
+      # - pywinpty=0.5.7
+      # - vs2015_runtime=14.16.27012
+      # - m2w64-gmp=6.1.0
+      # - wincertstore=0.2
+      # - msys2-conda-epoch=20160418
+      # - m2w64-gcc-libgfortran=5.3.0
+      # - m2w64-gcc-libs=5.3.0
+      # - m2w64-gcc-libs-core=5.3.0
+      # - m2w64-libwinpthread-git=5.0.0.4634.697f757
+      # - winpty=0.4.3
+      # - icc_rt=2019.0.0
+      # - pywin32=227
+      # - vc=14.1
