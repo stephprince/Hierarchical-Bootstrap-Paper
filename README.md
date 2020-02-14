@@ -1,7 +1,6 @@
 # hierarchical-bootstrap-practice
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephprince/hierarchical-bootstrap-practice.git/d3d213c
-?filepath=hierarchical-bootstrap-ripple-abundance-test.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephprince/hierarchical-bootstrap-practice.git/d3d213c?filepath=hierarchical-bootstrap-ripple-abundance-test.ipynb)
 
 Press the Binder button above to launch the jupyter notebook!
 
