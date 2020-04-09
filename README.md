@@ -4,4 +4,4 @@
 
 Press the Binder button above to launch the jupyter notebook!
 
-This repository uses the code from the [Sober Lab Hierarchical Bootstrap Paper](https://github.com/soberlab/Hierarchical-Bootstrap-Paper) to test applying this analysis to Singer Lab 5XFAD electrophysiology data.
+This repository uses the code from the [Sober Lab Hierarchical Bootstrap Paper](https://github.com/soberlab/Hierarchical-Bootstrap-Paper) to provide an example of applying this analysis to Singer Lab 5XFAD electrophysiology data.
